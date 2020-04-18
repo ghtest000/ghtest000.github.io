@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bad on Liva | Personal blog template</title>
+    <link>https://ghtest000.github.io/tags/bad/</link>
+    <description>Recent content in bad on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Apr 2020 10:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://ghtest000.github.io/tags/bad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugo shortcode 示範</title>
+      <link>https://ghtest000.github.io/blog/shortcode-test/</link>
+      <pubDate>Fri, 17 Apr 2020 10:00:00 +0800</pubDate>
+      
+      <guid>https://ghtest000.github.io/blog/shortcode-test/</guid>
+      <description>Youtube   Twitter GitHub Desktop 2.4, updated with automatic proxy configuration, quicker issue creation—oh, and dark theme is out of beta!</description>
+    </item>
+    
+    <item>
+      <title>阿柴的第一篇文章</title>
+      <link>https://ghtest000.github.io/blog/test/</link>
+      <pubDate>Sat, 04 Apr 2020 22:00:00 +0800</pubDate>
+      
+      <guid>https://ghtest000.github.io/blog/test/</guid>
+      <description>hello
+你好
+Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 hello hello</description>
+    </item>
+    
+  </channel>
+</rss>
